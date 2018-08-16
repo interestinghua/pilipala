@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/marshua/FlutterPrj/aijihui/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml",
+            "outputFile": "/Users/marshua/FlutterPrj/pilipala/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml",
             "map": [
                 {
                     "source": "/Users/marshua/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/bde949f64bdb10eaf4f32b3a53956163/res/values-ja/values-ja.xml",
